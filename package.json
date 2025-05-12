@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.6",
-    "online_bookstore": "file:",
+    "online_bookstore": "file:"
+  },
+  "devDependencies": {
     "tailwindcss": "^4.1.6"
   }
 }
